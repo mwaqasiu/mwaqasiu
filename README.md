@@ -58,13 +58,13 @@ I have 7 years of experience in Laravel. I'm expert in:
   </p>
 
 > **<h3>All Stats Overview:</h3>**
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mwaqasiu&show_icons=true&locale=en" alt="mwaqasiu" /></p>
+<p>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwaqasiu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)</p>
 
 > **<h3>Streak Stats Overview:</h3>**
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasiu&" alt="mwaqasiu" /></p>
 
 > **<h3>Languages Stats Overview:</h3>**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasiu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasiu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 </br></br></br></br></br></br></br>
 
