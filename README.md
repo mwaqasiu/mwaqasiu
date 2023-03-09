@@ -64,7 +64,7 @@ I have 7 years of experience in Laravel. I'm expert in:
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasiu&" alt="mwaqasiu" /></p>
 
 > **<h3>Languages Stats Overview:</h3>**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaqasiu&show_icons=true&locale=en&layout=compact" alt="mwaqasiu" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasiu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </br></br></br></br></br></br></br>
 
