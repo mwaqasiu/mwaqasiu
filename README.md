@@ -59,7 +59,7 @@ I have 7 years of experience in Laravel. I'm expert in:
 
 > **<h3>All Stats Overview:</h3>**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwaqasiu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwaqasiu&show_icons=true&include_all_commits=true&count_private=true)
 
 > **<h3>Streak Stats Overview:</h3>**
 
