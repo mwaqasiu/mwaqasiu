@@ -69,8 +69,6 @@ I have 7 years of experience in Laravel. I'm expert in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasiu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</br></br></br></br></br></br></br>
-
 > **<h3>Connect with me:</h3>**
 
 <p align="left">
