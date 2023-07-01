@@ -57,18 +57,6 @@ I have 7 years of experience in Laravel. I'm expert in:
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
 
-> **<h3>All Stats Overview:</h3>**
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwaqasiu&show_icons=true&include_all_commits=true&count_private=true)
-
-> **<h3>Streak Stats Overview:</h3>**
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasiu&" alt="mwaqasiu" /></p>
-
-> **<h3>Languages Stats Overview:</h3>**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasiu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 > **<h3>Connect with me:</h3>**
 
 <p align="left">
