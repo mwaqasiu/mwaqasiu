@@ -10,7 +10,7 @@ class About extends Me
   {
     return 'I am Muhammad Waqas, a web developer with over 8 years of experience and a passion for crafting exceptional digital solutions. I've successfully completed over 100+ projects, specializing in Laravel, Vue.js, and API development. My expertise extends to building efficient UIs with Filament and resolving bugs swiftly. 
   
-    Let's create your dream digital solution together! Here is what I bring to the table:
+    Let\'s create your dream digital solution together! Here is what I bring to the table:
   
     Laravel Development: Build robust and scalable web applications with Laravel, ensuring smooth performance and user experiences.
     Interactive UIs with Vue.js or React.js: I leverage Vue.js or React.js to create user-friendly interfaces and engaging single-page applications. 
