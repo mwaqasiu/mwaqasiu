@@ -8,18 +8,16 @@ class About extends Me
 {
   public function getBio(): string
   {
-    return 'I am Muhammad Waqas, a web developer with over 8 years of experience and a passion for crafting exceptional digital solutions. I have successfully completed over 100+ projects, specializing in Laravel, Vue.js, and API development. My expertise extends to building efficient UIs with Filament and resolving bugs swiftly. 
-  
-    Let us create your dream digital solution together! Here is what I bring to the table:
-  
-    Laravel Development: Build robust and scalable web applications with Laravel, ensuring smooth performance and user experiences.
-    Interactive UIs with Vue.js or React.js: I leverage Vue.js or React.js to create user-friendly interfaces and engaging single-page applications. 
-    Filament Expert: I specialize in customizing Filament for efficient management of your web applications.
-    Seamless API Development: Design and implement RESTful APIs to facilitate communication between your web applications and other services.
-    Full-Stack Development: From initial concept to deployment, I deliver tailored web solutions that are functional, user-friendly, and visually appealing.
-    Bug-Free Solutions: With a keen eye for detail, I identify and resolve bugs efficiently, ensuring your applications run smoothly.
-  
-    Ready to elevate your online presence? Let us collaborate to bring your vision to life. Reach out today to discuss your project and take the first step towards success!';
+      return 'I am Muhammad Waqas, a web developer with over 8 years of experience,
+              and a passion for crafting exceptional digital solutions.
+              I develop modern technology web applications with popular frameworks like Laravel, Vue and React.
+              SaaS,
+              CMS,
+              CRM
+              Multi-Tenancy,
+              E-Commerce,
+              RestFull API
+              I develop advanced software with software architectures.';
   }
 
   public function getMore(): array
