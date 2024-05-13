@@ -6,6 +6,11 @@ namespace MuhammadWaqas;
 
 class About extends Me
 {
+  public function hireMe(): string
+  {
+      return 'https://www.upwork.com/freelancers/~01ed93ee301f0a4aba';
+  }
+
   public function getBio(): string
   {
       return 'I am Muhammad Waqas, a web developer with over 8 years of experience,
